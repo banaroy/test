@@ -12,8 +12,8 @@ export default class Gnb01 extends Component {
     return (
       <Menu>
         <Menu.Item
-          name="앱스토어"
-          active={activeItem === "앱스토어d"}
+          name="앱스토어sdf"
+          active={activeItem === "앱스"}
           content="앱스토어 "
           onClick={this.handleItemClick}
         />
