@@ -20,7 +20,7 @@ export default class Gnb01 extends Component {
 
         <Menu.Item
           name="reviews"
-          active={activeItem === "reviews"}
+          active={activeItem === "reviewsw"}
           content="Reviews"
           onClick={this.handleItemClick}
         />
